@@ -1,0 +1,601 @@
+Factory Code,Factory Group,Factory Name,Region,Country,Period,Status,Compliance Score,Pass/Fail,Verification Date
+FC0001,Sports Equipment,Chang-Fisher Group,Europe,United Kingdom,Jan 2023,Not Submitted,,,
+FC0001,Sports Equipment,Chang-Fisher Group,Europe,United Kingdom,Feb 2023,Submitted,60.0,Fail,2023-02-15
+FC0001,Sports Equipment,Chang-Fisher Group,Europe,United Kingdom,Mar 2023,Submitted,94.0,Pass,2023-03-06
+FC0001,Sports Equipment,Chang-Fisher Group,Europe,United Kingdom,Apr 2023,Submitted,81.0,Pass,2023-04-18
+FC0001,Sports Equipment,Chang-Fisher Group,Europe,United Kingdom,May 2023,Submitted,50.0,Fail,2023-05-02
+FC0001,Sports Equipment,Chang-Fisher Group,Europe,United Kingdom,Jun 2023,Submitted,69.0,Fail,2023-06-27
+FC0001,Sports Equipment,Chang-Fisher Group,Europe,United Kingdom,Jul 2023,Submitted,76.0,Pass,2023-07-07
+FC0001,Sports Equipment,Chang-Fisher Group,Europe,United Kingdom,Aug 2023,Submitted,90.0,Pass,2023-08-03
+FC0001,Sports Equipment,Chang-Fisher Group,Europe,United Kingdom,Sep 2023,Not Submitted,,,
+FC0001,Sports Equipment,Chang-Fisher Group,Europe,United Kingdom,Oct 2023,Submitted,50.0,Fail,2023-10-13
+FC0001,Sports Equipment,Chang-Fisher Group,Europe,United Kingdom,Nov 2023,Not Submitted,,,
+FC0001,Sports Equipment,Chang-Fisher Group,Europe,United Kingdom,Dec 2023,Submitted,50.0,Fail,2023-12-07
+FC0002,Accessories,Sheppard-Tucker Group,Africa,Kenya,Jan 2023,Submitted,98.0,Pass,2023-01-01
+FC0002,Accessories,Sheppard-Tucker Group,Africa,Kenya,Feb 2023,Not Submitted,,,
+FC0002,Accessories,Sheppard-Tucker Group,Africa,Kenya,Mar 2023,Submitted,89.0,Pass,2023-03-04
+FC0002,Accessories,Sheppard-Tucker Group,Africa,Kenya,Apr 2023,Submitted,88.0,Pass,2023-04-21
+FC0002,Accessories,Sheppard-Tucker Group,Africa,Kenya,May 2023,Submitted,69.0,Fail,2023-05-09
+FC0002,Accessories,Sheppard-Tucker Group,Africa,Kenya,Jun 2023,Submitted,61.0,Fail,2023-06-04
+FC0002,Accessories,Sheppard-Tucker Group,Africa,Kenya,Jul 2023,Submitted,75.0,Pass,2023-07-21
+FC0002,Accessories,Sheppard-Tucker Group,Africa,Kenya,Aug 2023,Submitted,67.0,Fail,2023-08-15
+FC0002,Accessories,Sheppard-Tucker Group,Africa,Kenya,Sep 2023,Not Submitted,,,
+FC0002,Accessories,Sheppard-Tucker Group,Africa,Kenya,Oct 2023,Submitted,66.0,Fail,2023-10-05
+FC0002,Accessories,Sheppard-Tucker Group,Africa,Kenya,Nov 2023,Submitted,91.0,Pass,2023-11-21
+FC0002,Accessories,Sheppard-Tucker Group,Africa,Kenya,Dec 2023,Submitted,59.0,Fail,2023-12-09
+FC0003,Sports Equipment,Faulkner-Howard Inc.,North America,Canada,Jan 2023,Not Submitted,,,
+FC0003,Sports Equipment,Faulkner-Howard Inc.,North America,Canada,Feb 2023,Submitted,63.0,Fail,2023-02-22
+FC0003,Sports Equipment,Faulkner-Howard Inc.,North America,Canada,Mar 2023,Submitted,70.0,Pass,2023-03-12
+FC0003,Sports Equipment,Faulkner-Howard Inc.,North America,Canada,Apr 2023,Not Submitted,,,
+FC0003,Sports Equipment,Faulkner-Howard Inc.,North America,Canada,May 2023,Not Submitted,,,
+FC0003,Sports Equipment,Faulkner-Howard Inc.,North America,Canada,Jun 2023,Submitted,97.0,Pass,2023-06-23
+FC0003,Sports Equipment,Faulkner-Howard Inc.,North America,Canada,Jul 2023,Submitted,81.0,Pass,2023-07-23
+FC0003,Sports Equipment,Faulkner-Howard Inc.,North America,Canada,Aug 2023,Submitted,79.0,Pass,2023-08-21
+FC0003,Sports Equipment,Faulkner-Howard Inc.,North America,Canada,Sep 2023,Submitted,84.0,Pass,2023-09-06
+FC0003,Sports Equipment,Faulkner-Howard Inc.,North America,Canada,Oct 2023,Submitted,87.0,Pass,2023-10-10
+FC0003,Sports Equipment,Faulkner-Howard Inc.,North America,Canada,Nov 2023,Submitted,59.0,Fail,2023-11-09
+FC0003,Sports Equipment,Faulkner-Howard Inc.,North America,Canada,Dec 2023,Submitted,100.0,Pass,2023-12-12
+FC0004,Bags & Gear,Wagner LLC LLC,North America,USA,Jan 2023,Submitted,71.0,Pass,2023-01-25
+FC0004,Bags & Gear,Wagner LLC LLC,North America,USA,Feb 2023,Submitted,52.0,Fail,2023-02-09
+FC0004,Bags & Gear,Wagner LLC LLC,North America,USA,Mar 2023,Submitted,87.0,Pass,2023-03-10
+FC0004,Bags & Gear,Wagner LLC LLC,North America,USA,Apr 2023,Submitted,85.0,Pass,2023-04-05
+FC0004,Bags & Gear,Wagner LLC LLC,North America,USA,May 2023,Submitted,80.0,Pass,2023-05-24
+FC0004,Bags & Gear,Wagner LLC LLC,North America,USA,Jun 2023,Submitted,53.0,Fail,2023-06-10
+FC0004,Bags & Gear,Wagner LLC LLC,North America,USA,Jul 2023,Submitted,83.0,Pass,2023-07-24
+FC0004,Bags & Gear,Wagner LLC LLC,North America,USA,Aug 2023,Submitted,75.0,Pass,2023-08-27
+FC0004,Bags & Gear,Wagner LLC LLC,North America,USA,Sep 2023,Submitted,76.0,Pass,2023-09-04
+FC0004,Bags & Gear,Wagner LLC LLC,North America,USA,Oct 2023,Submitted,80.0,Pass,2023-10-16
+FC0004,Bags & Gear,Wagner LLC LLC,North America,USA,Nov 2023,Submitted,71.0,Pass,2023-11-04
+FC0004,Bags & Gear,Wagner LLC LLC,North America,USA,Dec 2023,Submitted,94.0,Pass,2023-12-16
+FC0005,Sports Equipment,Campos PLC Group,South America,Peru,Jan 2023,Submitted,69.0,Fail,2023-01-11
+FC0005,Sports Equipment,Campos PLC Group,South America,Peru,Feb 2023,Submitted,59.0,Fail,2023-02-06
+FC0005,Sports Equipment,Campos PLC Group,South America,Peru,Mar 2023,Submitted,74.0,Pass,2023-03-26
+FC0005,Sports Equipment,Campos PLC Group,South America,Peru,Apr 2023,Not Submitted,,,
+FC0005,Sports Equipment,Campos PLC Group,South America,Peru,May 2023,Submitted,54.0,Fail,2023-05-26
+FC0005,Sports Equipment,Campos PLC Group,South America,Peru,Jun 2023,Submitted,97.0,Pass,2023-06-08
+FC0005,Sports Equipment,Campos PLC Group,South America,Peru,Jul 2023,Submitted,50.0,Fail,2023-07-04
+FC0005,Sports Equipment,Campos PLC Group,South America,Peru,Aug 2023,Submitted,83.0,Pass,2023-08-10
+FC0005,Sports Equipment,Campos PLC Group,South America,Peru,Sep 2023,Submitted,81.0,Pass,2023-09-26
+FC0005,Sports Equipment,Campos PLC Group,South America,Peru,Oct 2023,Submitted,93.0,Pass,2023-10-07
+FC0005,Sports Equipment,Campos PLC Group,South America,Peru,Nov 2023,Submitted,73.0,Pass,2023-11-08
+FC0005,Sports Equipment,Campos PLC Group,South America,Peru,Dec 2023,Not Submitted,,,
+FC0006,Bags & Gear,Archer-Patel Group,North America,Cuba,Jan 2023,Submitted,99.0,Pass,2023-01-06
+FC0006,Bags & Gear,Archer-Patel Group,North America,Cuba,Feb 2023,Submitted,72.0,Pass,2023-02-04
+FC0006,Bags & Gear,Archer-Patel Group,North America,Cuba,Mar 2023,Submitted,94.0,Pass,2023-03-01
+FC0006,Bags & Gear,Archer-Patel Group,North America,Cuba,Apr 2023,Not Submitted,,,
+FC0006,Bags & Gear,Archer-Patel Group,North America,Cuba,May 2023,Submitted,93.0,Pass,2023-05-07
+FC0006,Bags & Gear,Archer-Patel Group,North America,Cuba,Jun 2023,Submitted,75.0,Pass,2023-06-09
+FC0006,Bags & Gear,Archer-Patel Group,North America,Cuba,Jul 2023,Submitted,52.0,Fail,2023-07-26
+FC0006,Bags & Gear,Archer-Patel Group,North America,Cuba,Aug 2023,Submitted,59.0,Fail,2023-08-04
+FC0006,Bags & Gear,Archer-Patel Group,North America,Cuba,Sep 2023,Submitted,74.0,Pass,2023-09-12
+FC0006,Bags & Gear,Archer-Patel Group,North America,Cuba,Oct 2023,Submitted,59.0,Fail,2023-10-04
+FC0006,Bags & Gear,Archer-Patel Group,North America,Cuba,Nov 2023,Not Submitted,,,
+FC0006,Bags & Gear,Archer-Patel Group,North America,Cuba,Dec 2023,Not Submitted,,,
+FC0007,Accessories,"Patrick, Barrera and Collins LLC",Asia,Singapore,Jan 2023,Submitted,75.0,Pass,2023-01-21
+FC0007,Accessories,"Patrick, Barrera and Collins LLC",Asia,Singapore,Feb 2023,Submitted,83.0,Pass,2023-02-16
+FC0007,Accessories,"Patrick, Barrera and Collins LLC",Asia,Singapore,Mar 2023,Submitted,70.0,Pass,2023-03-27
+FC0007,Accessories,"Patrick, Barrera and Collins LLC",Asia,Singapore,Apr 2023,Submitted,81.0,Pass,2023-04-21
+FC0007,Accessories,"Patrick, Barrera and Collins LLC",Asia,Singapore,May 2023,Submitted,62.0,Fail,2023-05-18
+FC0007,Accessories,"Patrick, Barrera and Collins LLC",Asia,Singapore,Jun 2023,Submitted,64.0,Fail,2023-06-01
+FC0007,Accessories,"Patrick, Barrera and Collins LLC",Asia,Singapore,Jul 2023,Submitted,97.0,Pass,2023-07-11
+FC0007,Accessories,"Patrick, Barrera and Collins LLC",Asia,Singapore,Aug 2023,Not Submitted,,,
+FC0007,Accessories,"Patrick, Barrera and Collins LLC",Asia,Singapore,Sep 2023,Submitted,59.0,Fail,2023-09-28
+FC0007,Accessories,"Patrick, Barrera and Collins LLC",Asia,Singapore,Oct 2023,Submitted,100.0,Pass,2023-10-05
+FC0007,Accessories,"Patrick, Barrera and Collins LLC",Asia,Singapore,Nov 2023,Not Submitted,,,
+FC0007,Accessories,"Patrick, Barrera and Collins LLC",Asia,Singapore,Dec 2023,Submitted,95.0,Pass,2023-12-23
+FC0008,Sports Equipment,"Jones, Jefferson and Rivera Group",Africa,Ghana,Jan 2023,Not Submitted,,,
+FC0008,Sports Equipment,"Jones, Jefferson and Rivera Group",Africa,Ghana,Feb 2023,Submitted,55.0,Fail,2023-02-17
+FC0008,Sports Equipment,"Jones, Jefferson and Rivera Group",Africa,Ghana,Mar 2023,Not Submitted,,,
+FC0008,Sports Equipment,"Jones, Jefferson and Rivera Group",Africa,Ghana,Apr 2023,Submitted,64.0,Fail,2023-04-05
+FC0008,Sports Equipment,"Jones, Jefferson and Rivera Group",Africa,Ghana,May 2023,Submitted,50.0,Fail,2023-05-25
+FC0008,Sports Equipment,"Jones, Jefferson and Rivera Group",Africa,Ghana,Jun 2023,Not Submitted,,,
+FC0008,Sports Equipment,"Jones, Jefferson and Rivera Group",Africa,Ghana,Jul 2023,Submitted,60.0,Fail,2023-07-26
+FC0008,Sports Equipment,"Jones, Jefferson and Rivera Group",Africa,Ghana,Aug 2023,Submitted,91.0,Pass,2023-08-15
+FC0008,Sports Equipment,"Jones, Jefferson and Rivera Group",Africa,Ghana,Sep 2023,Not Submitted,,,
+FC0008,Sports Equipment,"Jones, Jefferson and Rivera Group",Africa,Ghana,Oct 2023,Submitted,83.0,Pass,2023-10-17
+FC0008,Sports Equipment,"Jones, Jefferson and Rivera Group",Africa,Ghana,Nov 2023,Submitted,55.0,Fail,2023-11-22
+FC0008,Sports Equipment,"Jones, Jefferson and Rivera Group",Africa,Ghana,Dec 2023,Not Submitted,,,
+FC0009,Sports Equipment,"Garcia, Hamilton and Carr LLC",Asia,Japan,Jan 2023,Submitted,88.0,Pass,2023-01-03
+FC0009,Sports Equipment,"Garcia, Hamilton and Carr LLC",Asia,Japan,Feb 2023,Submitted,98.0,Pass,2023-02-07
+FC0009,Sports Equipment,"Garcia, Hamilton and Carr LLC",Asia,Japan,Mar 2023,Submitted,88.0,Pass,2023-03-14
+FC0009,Sports Equipment,"Garcia, Hamilton and Carr LLC",Asia,Japan,Apr 2023,Not Submitted,,,
+FC0009,Sports Equipment,"Garcia, Hamilton and Carr LLC",Asia,Japan,May 2023,Submitted,100.0,Pass,2023-05-13
+FC0009,Sports Equipment,"Garcia, Hamilton and Carr LLC",Asia,Japan,Jun 2023,Submitted,64.0,Fail,2023-06-28
+FC0009,Sports Equipment,"Garcia, Hamilton and Carr LLC",Asia,Japan,Jul 2023,Not Submitted,,,
+FC0009,Sports Equipment,"Garcia, Hamilton and Carr LLC",Asia,Japan,Aug 2023,Submitted,50.0,Fail,2023-08-24
+FC0009,Sports Equipment,"Garcia, Hamilton and Carr LLC",Asia,Japan,Sep 2023,Submitted,82.0,Pass,2023-09-19
+FC0009,Sports Equipment,"Garcia, Hamilton and Carr LLC",Asia,Japan,Oct 2023,Submitted,54.0,Fail,2023-10-16
+FC0009,Sports Equipment,"Garcia, Hamilton and Carr LLC",Asia,Japan,Nov 2023,Not Submitted,,,
+FC0009,Sports Equipment,"Garcia, Hamilton and Carr LLC",Asia,Japan,Dec 2023,Not Submitted,,,
+FC0010,Sports Equipment,Levy Group Ltd.,South America,Chile,Jan 2023,Submitted,76.0,Pass,2023-01-13
+FC0010,Sports Equipment,Levy Group Ltd.,South America,Chile,Feb 2023,Not Submitted,,,
+FC0010,Sports Equipment,Levy Group Ltd.,South America,Chile,Mar 2023,Submitted,91.0,Pass,2023-03-05
+FC0010,Sports Equipment,Levy Group Ltd.,South America,Chile,Apr 2023,Submitted,96.0,Pass,2023-04-27
+FC0010,Sports Equipment,Levy Group Ltd.,South America,Chile,May 2023,Submitted,52.0,Fail,2023-05-16
+FC0010,Sports Equipment,Levy Group Ltd.,South America,Chile,Jun 2023,Submitted,81.0,Pass,2023-06-28
+FC0010,Sports Equipment,Levy Group Ltd.,South America,Chile,Jul 2023,Submitted,55.0,Fail,2023-07-22
+FC0010,Sports Equipment,Levy Group Ltd.,South America,Chile,Aug 2023,Submitted,72.0,Pass,2023-08-14
+FC0010,Sports Equipment,Levy Group Ltd.,South America,Chile,Sep 2023,Submitted,79.0,Pass,2023-09-13
+FC0010,Sports Equipment,Levy Group Ltd.,South America,Chile,Oct 2023,Submitted,56.0,Fail,2023-10-16
+FC0010,Sports Equipment,Levy Group Ltd.,South America,Chile,Nov 2023,Not Submitted,,,
+FC0010,Sports Equipment,Levy Group Ltd.,South America,Chile,Dec 2023,Submitted,88.0,Pass,2023-12-20
+FC0011,Athletic Apparel,Grimes-Green Ltd.,North America,Cuba,Jan 2023,Submitted,70.0,Pass,2023-01-04
+FC0011,Athletic Apparel,Grimes-Green Ltd.,North America,Cuba,Feb 2023,Submitted,91.0,Pass,2023-02-12
+FC0011,Athletic Apparel,Grimes-Green Ltd.,North America,Cuba,Mar 2023,Submitted,100.0,Pass,2023-03-25
+FC0011,Athletic Apparel,Grimes-Green Ltd.,North America,Cuba,Apr 2023,Not Submitted,,,
+FC0011,Athletic Apparel,Grimes-Green Ltd.,North America,Cuba,May 2023,Submitted,53.0,Fail,2023-05-20
+FC0011,Athletic Apparel,Grimes-Green Ltd.,North America,Cuba,Jun 2023,Submitted,89.0,Pass,2023-06-21
+FC0011,Athletic Apparel,Grimes-Green Ltd.,North America,Cuba,Jul 2023,Not Submitted,,,
+FC0011,Athletic Apparel,Grimes-Green Ltd.,North America,Cuba,Aug 2023,Submitted,93.0,Pass,2023-08-23
+FC0011,Athletic Apparel,Grimes-Green Ltd.,North America,Cuba,Sep 2023,Submitted,100.0,Pass,2023-09-28
+FC0011,Athletic Apparel,Grimes-Green Ltd.,North America,Cuba,Oct 2023,Submitted,74.0,Pass,2023-10-26
+FC0011,Athletic Apparel,Grimes-Green Ltd.,North America,Cuba,Nov 2023,Submitted,97.0,Pass,2023-11-28
+FC0011,Athletic Apparel,Grimes-Green Ltd.,North America,Cuba,Dec 2023,Not Submitted,,,
+FC0012,Sports Equipment,"Moon, Davis and Larsen LLC",South America,Chile,Jan 2023,Not Submitted,,,
+FC0012,Sports Equipment,"Moon, Davis and Larsen LLC",South America,Chile,Feb 2023,Submitted,100.0,Pass,2023-02-07
+FC0012,Sports Equipment,"Moon, Davis and Larsen LLC",South America,Chile,Mar 2023,Submitted,75.0,Pass,2023-03-15
+FC0012,Sports Equipment,"Moon, Davis and Larsen LLC",South America,Chile,Apr 2023,Submitted,62.0,Fail,2023-04-15
+FC0012,Sports Equipment,"Moon, Davis and Larsen LLC",South America,Chile,May 2023,Submitted,90.0,Pass,2023-05-03
+FC0012,Sports Equipment,"Moon, Davis and Larsen LLC",South America,Chile,Jun 2023,Not Submitted,,,
+FC0012,Sports Equipment,"Moon, Davis and Larsen LLC",South America,Chile,Jul 2023,Not Submitted,,,
+FC0012,Sports Equipment,"Moon, Davis and Larsen LLC",South America,Chile,Aug 2023,Submitted,66.0,Fail,2023-08-01
+FC0012,Sports Equipment,"Moon, Davis and Larsen LLC",South America,Chile,Sep 2023,Not Submitted,,,
+FC0012,Sports Equipment,"Moon, Davis and Larsen LLC",South America,Chile,Oct 2023,Submitted,86.0,Pass,2023-10-07
+FC0012,Sports Equipment,"Moon, Davis and Larsen LLC",South America,Chile,Nov 2023,Submitted,99.0,Pass,2023-11-27
+FC0012,Sports Equipment,"Moon, Davis and Larsen LLC",South America,Chile,Dec 2023,Not Submitted,,,
+FC0013,Athletic Apparel,"Summers, Barnett and Smith Ltd.",South America,Argentina,Jan 2023,Submitted,82.0,Pass,2023-01-23
+FC0013,Athletic Apparel,"Summers, Barnett and Smith Ltd.",South America,Argentina,Feb 2023,Submitted,82.0,Pass,2023-02-10
+FC0013,Athletic Apparel,"Summers, Barnett and Smith Ltd.",South America,Argentina,Mar 2023,Not Submitted,,,
+FC0013,Athletic Apparel,"Summers, Barnett and Smith Ltd.",South America,Argentina,Apr 2023,Submitted,86.0,Pass,2023-04-14
+FC0013,Athletic Apparel,"Summers, Barnett and Smith Ltd.",South America,Argentina,May 2023,Not Submitted,,,
+FC0013,Athletic Apparel,"Summers, Barnett and Smith Ltd.",South America,Argentina,Jun 2023,Not Submitted,,,
+FC0013,Athletic Apparel,"Summers, Barnett and Smith Ltd.",South America,Argentina,Jul 2023,Submitted,56.0,Fail,2023-07-14
+FC0013,Athletic Apparel,"Summers, Barnett and Smith Ltd.",South America,Argentina,Aug 2023,Not Submitted,,,
+FC0013,Athletic Apparel,"Summers, Barnett and Smith Ltd.",South America,Argentina,Sep 2023,Submitted,51.0,Fail,2023-09-26
+FC0013,Athletic Apparel,"Summers, Barnett and Smith Ltd.",South America,Argentina,Oct 2023,Submitted,93.0,Pass,2023-10-14
+FC0013,Athletic Apparel,"Summers, Barnett and Smith Ltd.",South America,Argentina,Nov 2023,Submitted,70.0,Pass,2023-11-24
+FC0013,Athletic Apparel,"Summers, Barnett and Smith Ltd.",South America,Argentina,Dec 2023,Submitted,72.0,Pass,2023-12-03
+FC0014,Footwear,Clayton-Cook Inc.,Asia,Singapore,Jan 2023,Submitted,94.0,Pass,2023-01-01
+FC0014,Footwear,Clayton-Cook Inc.,Asia,Singapore,Feb 2023,Submitted,61.0,Fail,2023-02-01
+FC0014,Footwear,Clayton-Cook Inc.,Asia,Singapore,Mar 2023,Not Submitted,,,
+FC0014,Footwear,Clayton-Cook Inc.,Asia,Singapore,Apr 2023,Submitted,73.0,Pass,2023-04-03
+FC0014,Footwear,Clayton-Cook Inc.,Asia,Singapore,May 2023,Submitted,59.0,Fail,2023-05-07
+FC0014,Footwear,Clayton-Cook Inc.,Asia,Singapore,Jun 2023,Submitted,92.0,Pass,2023-06-22
+FC0014,Footwear,Clayton-Cook Inc.,Asia,Singapore,Jul 2023,Submitted,57.0,Fail,2023-07-24
+FC0014,Footwear,Clayton-Cook Inc.,Asia,Singapore,Aug 2023,Submitted,73.0,Pass,2023-08-23
+FC0014,Footwear,Clayton-Cook Inc.,Asia,Singapore,Sep 2023,Submitted,88.0,Pass,2023-09-08
+FC0014,Footwear,Clayton-Cook Inc.,Asia,Singapore,Oct 2023,Not Submitted,,,
+FC0014,Footwear,Clayton-Cook Inc.,Asia,Singapore,Nov 2023,Submitted,57.0,Fail,2023-11-16
+FC0014,Footwear,Clayton-Cook Inc.,Asia,Singapore,Dec 2023,Submitted,66.0,Fail,2023-12-05
+FC0015,Footwear,"Nguyen, Harrell and Lee LLC",Europe,Germany,Jan 2023,Submitted,63.0,Fail,2023-01-12
+FC0015,Footwear,"Nguyen, Harrell and Lee LLC",Europe,Germany,Feb 2023,Submitted,68.0,Fail,2023-02-10
+FC0015,Footwear,"Nguyen, Harrell and Lee LLC",Europe,Germany,Mar 2023,Not Submitted,,,
+FC0015,Footwear,"Nguyen, Harrell and Lee LLC",Europe,Germany,Apr 2023,Not Submitted,,,
+FC0015,Footwear,"Nguyen, Harrell and Lee LLC",Europe,Germany,May 2023,Submitted,61.0,Fail,2023-05-19
+FC0015,Footwear,"Nguyen, Harrell and Lee LLC",Europe,Germany,Jun 2023,Not Submitted,,,
+FC0015,Footwear,"Nguyen, Harrell and Lee LLC",Europe,Germany,Jul 2023,Submitted,87.0,Pass,2023-07-10
+FC0015,Footwear,"Nguyen, Harrell and Lee LLC",Europe,Germany,Aug 2023,Submitted,59.0,Fail,2023-08-05
+FC0015,Footwear,"Nguyen, Harrell and Lee LLC",Europe,Germany,Sep 2023,Not Submitted,,,
+FC0015,Footwear,"Nguyen, Harrell and Lee LLC",Europe,Germany,Oct 2023,Submitted,65.0,Fail,2023-10-08
+FC0015,Footwear,"Nguyen, Harrell and Lee LLC",Europe,Germany,Nov 2023,Not Submitted,,,
+FC0015,Footwear,"Nguyen, Harrell and Lee LLC",Europe,Germany,Dec 2023,Submitted,76.0,Pass,2023-12-22
+FC0016,Accessories,"Walker, Pratt and Thomas Ltd.",Europe,Spain,Jan 2023,Submitted,58.0,Fail,2023-01-20
+FC0016,Accessories,"Walker, Pratt and Thomas Ltd.",Europe,Spain,Feb 2023,Submitted,54.0,Fail,2023-02-23
+FC0016,Accessories,"Walker, Pratt and Thomas Ltd.",Europe,Spain,Mar 2023,Submitted,76.0,Pass,2023-03-10
+FC0016,Accessories,"Walker, Pratt and Thomas Ltd.",Europe,Spain,Apr 2023,Submitted,97.0,Pass,2023-04-05
+FC0016,Accessories,"Walker, Pratt and Thomas Ltd.",Europe,Spain,May 2023,Submitted,69.0,Fail,2023-05-21
+FC0016,Accessories,"Walker, Pratt and Thomas Ltd.",Europe,Spain,Jun 2023,Submitted,65.0,Fail,2023-06-15
+FC0016,Accessories,"Walker, Pratt and Thomas Ltd.",Europe,Spain,Jul 2023,Submitted,90.0,Pass,2023-07-17
+FC0016,Accessories,"Walker, Pratt and Thomas Ltd.",Europe,Spain,Aug 2023,Submitted,76.0,Pass,2023-08-01
+FC0016,Accessories,"Walker, Pratt and Thomas Ltd.",Europe,Spain,Sep 2023,Submitted,96.0,Pass,2023-09-11
+FC0016,Accessories,"Walker, Pratt and Thomas Ltd.",Europe,Spain,Oct 2023,Submitted,73.0,Pass,2023-10-10
+FC0016,Accessories,"Walker, Pratt and Thomas Ltd.",Europe,Spain,Nov 2023,Not Submitted,,,
+FC0016,Accessories,"Walker, Pratt and Thomas Ltd.",Europe,Spain,Dec 2023,Submitted,61.0,Fail,2023-12-26
+FC0017,Accessories,"West, Miller and Flores LLC",Africa,Nigeria,Jan 2023,Submitted,57.0,Fail,2023-01-18
+FC0017,Accessories,"West, Miller and Flores LLC",Africa,Nigeria,Feb 2023,Submitted,59.0,Fail,2023-02-26
+FC0017,Accessories,"West, Miller and Flores LLC",Africa,Nigeria,Mar 2023,Submitted,75.0,Pass,2023-03-06
+FC0017,Accessories,"West, Miller and Flores LLC",Africa,Nigeria,Apr 2023,Not Submitted,,,
+FC0017,Accessories,"West, Miller and Flores LLC",Africa,Nigeria,May 2023,Submitted,65.0,Fail,2023-05-15
+FC0017,Accessories,"West, Miller and Flores LLC",Africa,Nigeria,Jun 2023,Submitted,83.0,Pass,2023-06-05
+FC0017,Accessories,"West, Miller and Flores LLC",Africa,Nigeria,Jul 2023,Submitted,90.0,Pass,2023-07-21
+FC0017,Accessories,"West, Miller and Flores LLC",Africa,Nigeria,Aug 2023,Submitted,98.0,Pass,2023-08-07
+FC0017,Accessories,"West, Miller and Flores LLC",Africa,Nigeria,Sep 2023,Submitted,94.0,Pass,2023-09-15
+FC0017,Accessories,"West, Miller and Flores LLC",Africa,Nigeria,Oct 2023,Submitted,50.0,Fail,2023-10-07
+FC0017,Accessories,"West, Miller and Flores LLC",Africa,Nigeria,Nov 2023,Submitted,99.0,Pass,2023-11-21
+FC0017,Accessories,"West, Miller and Flores LLC",Africa,Nigeria,Dec 2023,Submitted,88.0,Pass,2023-12-05
+FC0018,Sports Equipment,"Bolton, Burns and Turner Inc.",North America,Mexico,Jan 2023,Submitted,98.0,Pass,2023-01-16
+FC0018,Sports Equipment,"Bolton, Burns and Turner Inc.",North America,Mexico,Feb 2023,Submitted,81.0,Pass,2023-02-25
+FC0018,Sports Equipment,"Bolton, Burns and Turner Inc.",North America,Mexico,Mar 2023,Not Submitted,,,
+FC0018,Sports Equipment,"Bolton, Burns and Turner Inc.",North America,Mexico,Apr 2023,Submitted,75.0,Pass,2023-04-09
+FC0018,Sports Equipment,"Bolton, Burns and Turner Inc.",North America,Mexico,May 2023,Submitted,51.0,Fail,2023-05-04
+FC0018,Sports Equipment,"Bolton, Burns and Turner Inc.",North America,Mexico,Jun 2023,Submitted,92.0,Pass,2023-06-02
+FC0018,Sports Equipment,"Bolton, Burns and Turner Inc.",North America,Mexico,Jul 2023,Submitted,75.0,Pass,2023-07-17
+FC0018,Sports Equipment,"Bolton, Burns and Turner Inc.",North America,Mexico,Aug 2023,Not Submitted,,,
+FC0018,Sports Equipment,"Bolton, Burns and Turner Inc.",North America,Mexico,Sep 2023,Submitted,78.0,Pass,2023-09-04
+FC0018,Sports Equipment,"Bolton, Burns and Turner Inc.",North America,Mexico,Oct 2023,Submitted,72.0,Pass,2023-10-10
+FC0018,Sports Equipment,"Bolton, Burns and Turner Inc.",North America,Mexico,Nov 2023,Not Submitted,,,
+FC0018,Sports Equipment,"Bolton, Burns and Turner Inc.",North America,Mexico,Dec 2023,Submitted,62.0,Fail,2023-12-20
+FC0019,Footwear,Mann-Kelley Inc.,North America,USA,Jan 2023,Submitted,54.0,Fail,2023-01-26
+FC0019,Footwear,Mann-Kelley Inc.,North America,USA,Feb 2023,Submitted,84.0,Pass,2023-02-11
+FC0019,Footwear,Mann-Kelley Inc.,North America,USA,Mar 2023,Submitted,65.0,Fail,2023-03-25
+FC0019,Footwear,Mann-Kelley Inc.,North America,USA,Apr 2023,Submitted,76.0,Pass,2023-04-28
+FC0019,Footwear,Mann-Kelley Inc.,North America,USA,May 2023,Submitted,83.0,Pass,2023-05-05
+FC0019,Footwear,Mann-Kelley Inc.,North America,USA,Jun 2023,Submitted,90.0,Pass,2023-06-07
+FC0019,Footwear,Mann-Kelley Inc.,North America,USA,Jul 2023,Submitted,76.0,Pass,2023-07-21
+FC0019,Footwear,Mann-Kelley Inc.,North America,USA,Aug 2023,Submitted,97.0,Pass,2023-08-25
+FC0019,Footwear,Mann-Kelley Inc.,North America,USA,Sep 2023,Not Submitted,,,
+FC0019,Footwear,Mann-Kelley Inc.,North America,USA,Oct 2023,Submitted,78.0,Pass,2023-10-12
+FC0019,Footwear,Mann-Kelley Inc.,North America,USA,Nov 2023,Submitted,58.0,Fail,2023-11-06
+FC0019,Footwear,Mann-Kelley Inc.,North America,USA,Dec 2023,Submitted,57.0,Fail,2023-12-13
+FC0020,Accessories,"Harris, Lloyd and Payne LLC",Africa,Ghana,Jan 2023,Submitted,79.0,Pass,2023-01-05
+FC0020,Accessories,"Harris, Lloyd and Payne LLC",Africa,Ghana,Feb 2023,Submitted,69.0,Fail,2023-02-12
+FC0020,Accessories,"Harris, Lloyd and Payne LLC",Africa,Ghana,Mar 2023,Submitted,97.0,Pass,2023-03-14
+FC0020,Accessories,"Harris, Lloyd and Payne LLC",Africa,Ghana,Apr 2023,Submitted,81.0,Pass,2023-04-23
+FC0020,Accessories,"Harris, Lloyd and Payne LLC",Africa,Ghana,May 2023,Submitted,81.0,Pass,2023-05-21
+FC0020,Accessories,"Harris, Lloyd and Payne LLC",Africa,Ghana,Jun 2023,Not Submitted,,,
+FC0020,Accessories,"Harris, Lloyd and Payne LLC",Africa,Ghana,Jul 2023,Submitted,59.0,Fail,2023-07-24
+FC0020,Accessories,"Harris, Lloyd and Payne LLC",Africa,Ghana,Aug 2023,Submitted,89.0,Pass,2023-08-07
+FC0020,Accessories,"Harris, Lloyd and Payne LLC",Africa,Ghana,Sep 2023,Submitted,80.0,Pass,2023-09-13
+FC0020,Accessories,"Harris, Lloyd and Payne LLC",Africa,Ghana,Oct 2023,Not Submitted,,,
+FC0020,Accessories,"Harris, Lloyd and Payne LLC",Africa,Ghana,Nov 2023,Submitted,83.0,Pass,2023-11-03
+FC0020,Accessories,"Harris, Lloyd and Payne LLC",Africa,Ghana,Dec 2023,Submitted,55.0,Fail,2023-12-22
+FC0021,Bags & Gear,Wallace-Carlson Group,North America,Mexico,Jan 2023,Not Submitted,,,
+FC0021,Bags & Gear,Wallace-Carlson Group,North America,Mexico,Feb 2023,Not Submitted,,,
+FC0021,Bags & Gear,Wallace-Carlson Group,North America,Mexico,Mar 2023,Submitted,73.0,Pass,2023-03-02
+FC0021,Bags & Gear,Wallace-Carlson Group,North America,Mexico,Apr 2023,Submitted,50.0,Fail,2023-04-09
+FC0021,Bags & Gear,Wallace-Carlson Group,North America,Mexico,May 2023,Not Submitted,,,
+FC0021,Bags & Gear,Wallace-Carlson Group,North America,Mexico,Jun 2023,Submitted,96.0,Pass,2023-06-08
+FC0021,Bags & Gear,Wallace-Carlson Group,North America,Mexico,Jul 2023,Submitted,86.0,Pass,2023-07-10
+FC0021,Bags & Gear,Wallace-Carlson Group,North America,Mexico,Aug 2023,Submitted,77.0,Pass,2023-08-15
+FC0021,Bags & Gear,Wallace-Carlson Group,North America,Mexico,Sep 2023,Submitted,74.0,Pass,2023-09-06
+FC0021,Bags & Gear,Wallace-Carlson Group,North America,Mexico,Oct 2023,Submitted,91.0,Pass,2023-10-22
+FC0021,Bags & Gear,Wallace-Carlson Group,North America,Mexico,Nov 2023,Submitted,78.0,Pass,2023-11-23
+FC0021,Bags & Gear,Wallace-Carlson Group,North America,Mexico,Dec 2023,Submitted,70.0,Pass,2023-12-05
+FC0022,Bags & Gear,Stewart-Allen Inc.,North America,Canada,Jan 2023,Submitted,61.0,Fail,2023-01-15
+FC0022,Bags & Gear,Stewart-Allen Inc.,North America,Canada,Feb 2023,Submitted,74.0,Pass,2023-02-14
+FC0022,Bags & Gear,Stewart-Allen Inc.,North America,Canada,Mar 2023,Not Submitted,,,
+FC0022,Bags & Gear,Stewart-Allen Inc.,North America,Canada,Apr 2023,Submitted,64.0,Fail,2023-04-26
+FC0022,Bags & Gear,Stewart-Allen Inc.,North America,Canada,May 2023,Submitted,63.0,Fail,2023-05-19
+FC0022,Bags & Gear,Stewart-Allen Inc.,North America,Canada,Jun 2023,Submitted,74.0,Pass,2023-06-02
+FC0022,Bags & Gear,Stewart-Allen Inc.,North America,Canada,Jul 2023,Submitted,55.0,Fail,2023-07-28
+FC0022,Bags & Gear,Stewart-Allen Inc.,North America,Canada,Aug 2023,Submitted,53.0,Fail,2023-08-24
+FC0022,Bags & Gear,Stewart-Allen Inc.,North America,Canada,Sep 2023,Submitted,61.0,Fail,2023-09-08
+FC0022,Bags & Gear,Stewart-Allen Inc.,North America,Canada,Oct 2023,Submitted,89.0,Pass,2023-10-03
+FC0022,Bags & Gear,Stewart-Allen Inc.,North America,Canada,Nov 2023,Submitted,82.0,Pass,2023-11-25
+FC0022,Bags & Gear,Stewart-Allen Inc.,North America,Canada,Dec 2023,Submitted,72.0,Pass,2023-12-14
+FC0023,Bags & Gear,Lopez and Sons LLC,Europe,France,Jan 2023,Submitted,90.0,Pass,2023-01-23
+FC0023,Bags & Gear,Lopez and Sons LLC,Europe,France,Feb 2023,Submitted,91.0,Pass,2023-02-18
+FC0023,Bags & Gear,Lopez and Sons LLC,Europe,France,Mar 2023,Not Submitted,,,
+FC0023,Bags & Gear,Lopez and Sons LLC,Europe,France,Apr 2023,Not Submitted,,,
+FC0023,Bags & Gear,Lopez and Sons LLC,Europe,France,May 2023,Submitted,81.0,Pass,2023-05-09
+FC0023,Bags & Gear,Lopez and Sons LLC,Europe,France,Jun 2023,Submitted,63.0,Fail,2023-06-11
+FC0023,Bags & Gear,Lopez and Sons LLC,Europe,France,Jul 2023,Submitted,52.0,Fail,2023-07-02
+FC0023,Bags & Gear,Lopez and Sons LLC,Europe,France,Aug 2023,Submitted,50.0,Fail,2023-08-10
+FC0023,Bags & Gear,Lopez and Sons LLC,Europe,France,Sep 2023,Submitted,58.0,Fail,2023-09-03
+FC0023,Bags & Gear,Lopez and Sons LLC,Europe,France,Oct 2023,Not Submitted,,,
+FC0023,Bags & Gear,Lopez and Sons LLC,Europe,France,Nov 2023,Submitted,88.0,Pass,2023-11-13
+FC0023,Bags & Gear,Lopez and Sons LLC,Europe,France,Dec 2023,Submitted,64.0,Fail,2023-12-15
+FC0024,Bags & Gear,Salazar Ltd Group,Africa,Kenya,Jan 2023,Submitted,88.0,Pass,2023-01-04
+FC0024,Bags & Gear,Salazar Ltd Group,Africa,Kenya,Feb 2023,Submitted,55.0,Fail,2023-02-26
+FC0024,Bags & Gear,Salazar Ltd Group,Africa,Kenya,Mar 2023,Submitted,84.0,Pass,2023-03-15
+FC0024,Bags & Gear,Salazar Ltd Group,Africa,Kenya,Apr 2023,Not Submitted,,,
+FC0024,Bags & Gear,Salazar Ltd Group,Africa,Kenya,May 2023,Submitted,83.0,Pass,2023-05-02
+FC0024,Bags & Gear,Salazar Ltd Group,Africa,Kenya,Jun 2023,Submitted,55.0,Fail,2023-06-07
+FC0024,Bags & Gear,Salazar Ltd Group,Africa,Kenya,Jul 2023,Not Submitted,,,
+FC0024,Bags & Gear,Salazar Ltd Group,Africa,Kenya,Aug 2023,Submitted,62.0,Fail,2023-08-09
+FC0024,Bags & Gear,Salazar Ltd Group,Africa,Kenya,Sep 2023,Submitted,97.0,Pass,2023-09-10
+FC0024,Bags & Gear,Salazar Ltd Group,Africa,Kenya,Oct 2023,Submitted,74.0,Pass,2023-10-09
+FC0024,Bags & Gear,Salazar Ltd Group,Africa,Kenya,Nov 2023,Submitted,95.0,Pass,2023-11-08
+FC0024,Bags & Gear,Salazar Ltd Group,Africa,Kenya,Dec 2023,Submitted,85.0,Pass,2023-12-03
+FC0025,Bags & Gear,Alvarez-Davis LLC,Africa,South Africa,Jan 2023,Submitted,81.0,Pass,2023-01-24
+FC0025,Bags & Gear,Alvarez-Davis LLC,Africa,South Africa,Feb 2023,Submitted,76.0,Pass,2023-02-16
+FC0025,Bags & Gear,Alvarez-Davis LLC,Africa,South Africa,Mar 2023,Submitted,57.0,Fail,2023-03-03
+FC0025,Bags & Gear,Alvarez-Davis LLC,Africa,South Africa,Apr 2023,Submitted,56.0,Fail,2023-04-27
+FC0025,Bags & Gear,Alvarez-Davis LLC,Africa,South Africa,May 2023,Not Submitted,,,
+FC0025,Bags & Gear,Alvarez-Davis LLC,Africa,South Africa,Jun 2023,Submitted,63.0,Fail,2023-06-15
+FC0025,Bags & Gear,Alvarez-Davis LLC,Africa,South Africa,Jul 2023,Submitted,77.0,Pass,2023-07-18
+FC0025,Bags & Gear,Alvarez-Davis LLC,Africa,South Africa,Aug 2023,Not Submitted,,,
+FC0025,Bags & Gear,Alvarez-Davis LLC,Africa,South Africa,Sep 2023,Not Submitted,,,
+FC0025,Bags & Gear,Alvarez-Davis LLC,Africa,South Africa,Oct 2023,Submitted,61.0,Fail,2023-10-08
+FC0025,Bags & Gear,Alvarez-Davis LLC,Africa,South Africa,Nov 2023,Submitted,58.0,Fail,2023-11-27
+FC0025,Bags & Gear,Alvarez-Davis LLC,Africa,South Africa,Dec 2023,Not Submitted,,,
+FC0026,Sports Equipment,Mcdowell Inc Ltd.,North America,Jamaica,Jan 2023,Not Submitted,,,
+FC0026,Sports Equipment,Mcdowell Inc Ltd.,North America,Jamaica,Feb 2023,Submitted,77.0,Pass,2023-02-04
+FC0026,Sports Equipment,Mcdowell Inc Ltd.,North America,Jamaica,Mar 2023,Submitted,68.0,Fail,2023-03-20
+FC0026,Sports Equipment,Mcdowell Inc Ltd.,North America,Jamaica,Apr 2023,Submitted,62.0,Fail,2023-04-23
+FC0026,Sports Equipment,Mcdowell Inc Ltd.,North America,Jamaica,May 2023,Submitted,78.0,Pass,2023-05-17
+FC0026,Sports Equipment,Mcdowell Inc Ltd.,North America,Jamaica,Jun 2023,Submitted,84.0,Pass,2023-06-21
+FC0026,Sports Equipment,Mcdowell Inc Ltd.,North America,Jamaica,Jul 2023,Submitted,64.0,Fail,2023-07-01
+FC0026,Sports Equipment,Mcdowell Inc Ltd.,North America,Jamaica,Aug 2023,Submitted,100.0,Pass,2023-08-23
+FC0026,Sports Equipment,Mcdowell Inc Ltd.,North America,Jamaica,Sep 2023,Submitted,96.0,Pass,2023-09-14
+FC0026,Sports Equipment,Mcdowell Inc Ltd.,North America,Jamaica,Oct 2023,Submitted,68.0,Fail,2023-10-24
+FC0026,Sports Equipment,Mcdowell Inc Ltd.,North America,Jamaica,Nov 2023,Not Submitted,,,
+FC0026,Sports Equipment,Mcdowell Inc Ltd.,North America,Jamaica,Dec 2023,Submitted,84.0,Pass,2023-12-17
+FC0027,Athletic Apparel,Villanueva PLC Group,Asia,Japan,Jan 2023,Submitted,53.0,Fail,2023-01-04
+FC0027,Athletic Apparel,Villanueva PLC Group,Asia,Japan,Feb 2023,Submitted,67.0,Fail,2023-02-04
+FC0027,Athletic Apparel,Villanueva PLC Group,Asia,Japan,Mar 2023,Not Submitted,,,
+FC0027,Athletic Apparel,Villanueva PLC Group,Asia,Japan,Apr 2023,Submitted,64.0,Fail,2023-04-22
+FC0027,Athletic Apparel,Villanueva PLC Group,Asia,Japan,May 2023,Submitted,84.0,Pass,2023-05-22
+FC0027,Athletic Apparel,Villanueva PLC Group,Asia,Japan,Jun 2023,Submitted,97.0,Pass,2023-06-27
+FC0027,Athletic Apparel,Villanueva PLC Group,Asia,Japan,Jul 2023,Not Submitted,,,
+FC0027,Athletic Apparel,Villanueva PLC Group,Asia,Japan,Aug 2023,Submitted,69.0,Fail,2023-08-22
+FC0027,Athletic Apparel,Villanueva PLC Group,Asia,Japan,Sep 2023,Submitted,73.0,Pass,2023-09-21
+FC0027,Athletic Apparel,Villanueva PLC Group,Asia,Japan,Oct 2023,Submitted,87.0,Pass,2023-10-06
+FC0027,Athletic Apparel,Villanueva PLC Group,Asia,Japan,Nov 2023,Submitted,50.0,Fail,2023-11-18
+FC0027,Athletic Apparel,Villanueva PLC Group,Asia,Japan,Dec 2023,Submitted,73.0,Pass,2023-12-19
+FC0028,Accessories,"Myers, Thornton and Hill Group",North America,Mexico,Jan 2023,Submitted,58.0,Fail,2023-01-13
+FC0028,Accessories,"Myers, Thornton and Hill Group",North America,Mexico,Feb 2023,Submitted,61.0,Fail,2023-02-17
+FC0028,Accessories,"Myers, Thornton and Hill Group",North America,Mexico,Mar 2023,Not Submitted,,,
+FC0028,Accessories,"Myers, Thornton and Hill Group",North America,Mexico,Apr 2023,Submitted,63.0,Fail,2023-04-26
+FC0028,Accessories,"Myers, Thornton and Hill Group",North America,Mexico,May 2023,Not Submitted,,,
+FC0028,Accessories,"Myers, Thornton and Hill Group",North America,Mexico,Jun 2023,Submitted,99.0,Pass,2023-06-23
+FC0028,Accessories,"Myers, Thornton and Hill Group",North America,Mexico,Jul 2023,Not Submitted,,,
+FC0028,Accessories,"Myers, Thornton and Hill Group",North America,Mexico,Aug 2023,Submitted,58.0,Fail,2023-08-27
+FC0028,Accessories,"Myers, Thornton and Hill Group",North America,Mexico,Sep 2023,Submitted,74.0,Pass,2023-09-12
+FC0028,Accessories,"Myers, Thornton and Hill Group",North America,Mexico,Oct 2023,Submitted,58.0,Fail,2023-10-21
+FC0028,Accessories,"Myers, Thornton and Hill Group",North America,Mexico,Nov 2023,Submitted,56.0,Fail,2023-11-20
+FC0028,Accessories,"Myers, Thornton and Hill Group",North America,Mexico,Dec 2023,Not Submitted,,,
+FC0029,Athletic Apparel,Atkinson Ltd LLC,Europe,United Kingdom,Jan 2023,Submitted,72.0,Pass,2023-01-16
+FC0029,Athletic Apparel,Atkinson Ltd LLC,Europe,United Kingdom,Feb 2023,Submitted,50.0,Fail,2023-02-08
+FC0029,Athletic Apparel,Atkinson Ltd LLC,Europe,United Kingdom,Mar 2023,Submitted,60.0,Fail,2023-03-22
+FC0029,Athletic Apparel,Atkinson Ltd LLC,Europe,United Kingdom,Apr 2023,Not Submitted,,,
+FC0029,Athletic Apparel,Atkinson Ltd LLC,Europe,United Kingdom,May 2023,Not Submitted,,,
+FC0029,Athletic Apparel,Atkinson Ltd LLC,Europe,United Kingdom,Jun 2023,Submitted,84.0,Pass,2023-06-11
+FC0029,Athletic Apparel,Atkinson Ltd LLC,Europe,United Kingdom,Jul 2023,Submitted,55.0,Fail,2023-07-09
+FC0029,Athletic Apparel,Atkinson Ltd LLC,Europe,United Kingdom,Aug 2023,Submitted,75.0,Pass,2023-08-23
+FC0029,Athletic Apparel,Atkinson Ltd LLC,Europe,United Kingdom,Sep 2023,Submitted,70.0,Pass,2023-09-26
+FC0029,Athletic Apparel,Atkinson Ltd LLC,Europe,United Kingdom,Oct 2023,Submitted,53.0,Fail,2023-10-07
+FC0029,Athletic Apparel,Atkinson Ltd LLC,Europe,United Kingdom,Nov 2023,Submitted,96.0,Pass,2023-11-24
+FC0029,Athletic Apparel,Atkinson Ltd LLC,Europe,United Kingdom,Dec 2023,Not Submitted,,,
+FC0030,Bags & Gear,"Bryan, Barnes and Hill Inc.",Europe,United Kingdom,Jan 2023,Submitted,78.0,Pass,2023-01-22
+FC0030,Bags & Gear,"Bryan, Barnes and Hill Inc.",Europe,United Kingdom,Feb 2023,Submitted,92.0,Pass,2023-02-08
+FC0030,Bags & Gear,"Bryan, Barnes and Hill Inc.",Europe,United Kingdom,Mar 2023,Submitted,92.0,Pass,2023-03-06
+FC0030,Bags & Gear,"Bryan, Barnes and Hill Inc.",Europe,United Kingdom,Apr 2023,Submitted,72.0,Pass,2023-04-19
+FC0030,Bags & Gear,"Bryan, Barnes and Hill Inc.",Europe,United Kingdom,May 2023,Submitted,96.0,Pass,2023-05-21
+FC0030,Bags & Gear,"Bryan, Barnes and Hill Inc.",Europe,United Kingdom,Jun 2023,Submitted,51.0,Fail,2023-06-16
+FC0030,Bags & Gear,"Bryan, Barnes and Hill Inc.",Europe,United Kingdom,Jul 2023,Submitted,51.0,Fail,2023-07-08
+FC0030,Bags & Gear,"Bryan, Barnes and Hill Inc.",Europe,United Kingdom,Aug 2023,Submitted,64.0,Fail,2023-08-21
+FC0030,Bags & Gear,"Bryan, Barnes and Hill Inc.",Europe,United Kingdom,Sep 2023,Submitted,53.0,Fail,2023-09-12
+FC0030,Bags & Gear,"Bryan, Barnes and Hill Inc.",Europe,United Kingdom,Oct 2023,Not Submitted,,,
+FC0030,Bags & Gear,"Bryan, Barnes and Hill Inc.",Europe,United Kingdom,Nov 2023,Submitted,63.0,Fail,2023-11-15
+FC0030,Bags & Gear,"Bryan, Barnes and Hill Inc.",Europe,United Kingdom,Dec 2023,Submitted,72.0,Pass,2023-12-10
+FC0031,Bags & Gear,Keller-Davies Inc.,South America,Argentina,Jan 2023,Submitted,71.0,Pass,2023-01-24
+FC0031,Bags & Gear,Keller-Davies Inc.,South America,Argentina,Feb 2023,Not Submitted,,,
+FC0031,Bags & Gear,Keller-Davies Inc.,South America,Argentina,Mar 2023,Submitted,74.0,Pass,2023-03-01
+FC0031,Bags & Gear,Keller-Davies Inc.,South America,Argentina,Apr 2023,Submitted,66.0,Fail,2023-04-18
+FC0031,Bags & Gear,Keller-Davies Inc.,South America,Argentina,May 2023,Submitted,97.0,Pass,2023-05-22
+FC0031,Bags & Gear,Keller-Davies Inc.,South America,Argentina,Jun 2023,Submitted,98.0,Pass,2023-06-02
+FC0031,Bags & Gear,Keller-Davies Inc.,South America,Argentina,Jul 2023,Submitted,57.0,Fail,2023-07-14
+FC0031,Bags & Gear,Keller-Davies Inc.,South America,Argentina,Aug 2023,Not Submitted,,,
+FC0031,Bags & Gear,Keller-Davies Inc.,South America,Argentina,Sep 2023,Submitted,82.0,Pass,2023-09-05
+FC0031,Bags & Gear,Keller-Davies Inc.,South America,Argentina,Oct 2023,Submitted,92.0,Pass,2023-10-17
+FC0031,Bags & Gear,Keller-Davies Inc.,South America,Argentina,Nov 2023,Not Submitted,,,
+FC0031,Bags & Gear,Keller-Davies Inc.,South America,Argentina,Dec 2023,Submitted,55.0,Fail,2023-12-11
+FC0032,Bags & Gear,Miller-Salazar Inc.,Europe,Italy,Jan 2023,Submitted,61.0,Fail,2023-01-08
+FC0032,Bags & Gear,Miller-Salazar Inc.,Europe,Italy,Feb 2023,Not Submitted,,,
+FC0032,Bags & Gear,Miller-Salazar Inc.,Europe,Italy,Mar 2023,Not Submitted,,,
+FC0032,Bags & Gear,Miller-Salazar Inc.,Europe,Italy,Apr 2023,Not Submitted,,,
+FC0032,Bags & Gear,Miller-Salazar Inc.,Europe,Italy,May 2023,Submitted,93.0,Pass,2023-05-18
+FC0032,Bags & Gear,Miller-Salazar Inc.,Europe,Italy,Jun 2023,Submitted,55.0,Fail,2023-06-14
+FC0032,Bags & Gear,Miller-Salazar Inc.,Europe,Italy,Jul 2023,Not Submitted,,,
+FC0032,Bags & Gear,Miller-Salazar Inc.,Europe,Italy,Aug 2023,Submitted,89.0,Pass,2023-08-21
+FC0032,Bags & Gear,Miller-Salazar Inc.,Europe,Italy,Sep 2023,Submitted,59.0,Fail,2023-09-20
+FC0032,Bags & Gear,Miller-Salazar Inc.,Europe,Italy,Oct 2023,Submitted,66.0,Fail,2023-10-11
+FC0032,Bags & Gear,Miller-Salazar Inc.,Europe,Italy,Nov 2023,Not Submitted,,,
+FC0032,Bags & Gear,Miller-Salazar Inc.,Europe,Italy,Dec 2023,Submitted,51.0,Fail,2023-12-21
+FC0033,Sports Equipment,Matthews-Rogers Group,North America,Cuba,Jan 2023,Not Submitted,,,
+FC0033,Sports Equipment,Matthews-Rogers Group,North America,Cuba,Feb 2023,Submitted,55.0,Fail,2023-02-12
+FC0033,Sports Equipment,Matthews-Rogers Group,North America,Cuba,Mar 2023,Submitted,59.0,Fail,2023-03-15
+FC0033,Sports Equipment,Matthews-Rogers Group,North America,Cuba,Apr 2023,Submitted,72.0,Pass,2023-04-06
+FC0033,Sports Equipment,Matthews-Rogers Group,North America,Cuba,May 2023,Submitted,75.0,Pass,2023-05-11
+FC0033,Sports Equipment,Matthews-Rogers Group,North America,Cuba,Jun 2023,Submitted,81.0,Pass,2023-06-13
+FC0033,Sports Equipment,Matthews-Rogers Group,North America,Cuba,Jul 2023,Submitted,83.0,Pass,2023-07-10
+FC0033,Sports Equipment,Matthews-Rogers Group,North America,Cuba,Aug 2023,Submitted,52.0,Fail,2023-08-25
+FC0033,Sports Equipment,Matthews-Rogers Group,North America,Cuba,Sep 2023,Submitted,85.0,Pass,2023-09-09
+FC0033,Sports Equipment,Matthews-Rogers Group,North America,Cuba,Oct 2023,Not Submitted,,,
+FC0033,Sports Equipment,Matthews-Rogers Group,North America,Cuba,Nov 2023,Submitted,75.0,Pass,2023-11-24
+FC0033,Sports Equipment,Matthews-Rogers Group,North America,Cuba,Dec 2023,Submitted,72.0,Pass,2023-12-16
+FC0034,Bags & Gear,Sanchez Ltd Inc.,Asia,South Korea,Jan 2023,Submitted,67.0,Fail,2023-01-24
+FC0034,Bags & Gear,Sanchez Ltd Inc.,Asia,South Korea,Feb 2023,Not Submitted,,,
+FC0034,Bags & Gear,Sanchez Ltd Inc.,Asia,South Korea,Mar 2023,Submitted,93.0,Pass,2023-03-19
+FC0034,Bags & Gear,Sanchez Ltd Inc.,Asia,South Korea,Apr 2023,Submitted,68.0,Fail,2023-04-22
+FC0034,Bags & Gear,Sanchez Ltd Inc.,Asia,South Korea,May 2023,Not Submitted,,,
+FC0034,Bags & Gear,Sanchez Ltd Inc.,Asia,South Korea,Jun 2023,Not Submitted,,,
+FC0034,Bags & Gear,Sanchez Ltd Inc.,Asia,South Korea,Jul 2023,Submitted,74.0,Pass,2023-07-27
+FC0034,Bags & Gear,Sanchez Ltd Inc.,Asia,South Korea,Aug 2023,Not Submitted,,,
+FC0034,Bags & Gear,Sanchez Ltd Inc.,Asia,South Korea,Sep 2023,Submitted,86.0,Pass,2023-09-11
+FC0034,Bags & Gear,Sanchez Ltd Inc.,Asia,South Korea,Oct 2023,Not Submitted,,,
+FC0034,Bags & Gear,Sanchez Ltd Inc.,Asia,South Korea,Nov 2023,Not Submitted,,,
+FC0034,Bags & Gear,Sanchez Ltd Inc.,Asia,South Korea,Dec 2023,Submitted,93.0,Pass,2023-12-24
+FC0035,Sports Equipment,Wilson-Robinson Group,North America,USA,Jan 2023,Submitted,72.0,Pass,2023-01-06
+FC0035,Sports Equipment,Wilson-Robinson Group,North America,USA,Feb 2023,Not Submitted,,,
+FC0035,Sports Equipment,Wilson-Robinson Group,North America,USA,Mar 2023,Not Submitted,,,
+FC0035,Sports Equipment,Wilson-Robinson Group,North America,USA,Apr 2023,Submitted,97.0,Pass,2023-04-27
+FC0035,Sports Equipment,Wilson-Robinson Group,North America,USA,May 2023,Submitted,53.0,Fail,2023-05-19
+FC0035,Sports Equipment,Wilson-Robinson Group,North America,USA,Jun 2023,Submitted,72.0,Pass,2023-06-12
+FC0035,Sports Equipment,Wilson-Robinson Group,North America,USA,Jul 2023,Submitted,68.0,Fail,2023-07-11
+FC0035,Sports Equipment,Wilson-Robinson Group,North America,USA,Aug 2023,Submitted,75.0,Pass,2023-08-20
+FC0035,Sports Equipment,Wilson-Robinson Group,North America,USA,Sep 2023,Submitted,60.0,Fail,2023-09-01
+FC0035,Sports Equipment,Wilson-Robinson Group,North America,USA,Oct 2023,Not Submitted,,,
+FC0035,Sports Equipment,Wilson-Robinson Group,North America,USA,Nov 2023,Submitted,78.0,Pass,2023-11-05
+FC0035,Sports Equipment,Wilson-Robinson Group,North America,USA,Dec 2023,Submitted,50.0,Fail,2023-12-24
+FC0036,Sports Equipment,Cook Inc LLC,North America,USA,Jan 2023,Submitted,92.0,Pass,2023-01-27
+FC0036,Sports Equipment,Cook Inc LLC,North America,USA,Feb 2023,Submitted,66.0,Fail,2023-02-24
+FC0036,Sports Equipment,Cook Inc LLC,North America,USA,Mar 2023,Submitted,54.0,Fail,2023-03-18
+FC0036,Sports Equipment,Cook Inc LLC,North America,USA,Apr 2023,Not Submitted,,,
+FC0036,Sports Equipment,Cook Inc LLC,North America,USA,May 2023,Submitted,61.0,Fail,2023-05-17
+FC0036,Sports Equipment,Cook Inc LLC,North America,USA,Jun 2023,Submitted,92.0,Pass,2023-06-21
+FC0036,Sports Equipment,Cook Inc LLC,North America,USA,Jul 2023,Submitted,57.0,Fail,2023-07-17
+FC0036,Sports Equipment,Cook Inc LLC,North America,USA,Aug 2023,Submitted,84.0,Pass,2023-08-20
+FC0036,Sports Equipment,Cook Inc LLC,North America,USA,Sep 2023,Submitted,77.0,Pass,2023-09-09
+FC0036,Sports Equipment,Cook Inc LLC,North America,USA,Oct 2023,Submitted,50.0,Fail,2023-10-14
+FC0036,Sports Equipment,Cook Inc LLC,North America,USA,Nov 2023,Not Submitted,,,
+FC0036,Sports Equipment,Cook Inc LLC,North America,USA,Dec 2023,Not Submitted,,,
+FC0037,Accessories,Logan Ltd Ltd.,Africa,Ghana,Jan 2023,Submitted,66.0,Fail,2023-01-18
+FC0037,Accessories,Logan Ltd Ltd.,Africa,Ghana,Feb 2023,Submitted,70.0,Pass,2023-02-11
+FC0037,Accessories,Logan Ltd Ltd.,Africa,Ghana,Mar 2023,Submitted,100.0,Pass,2023-03-14
+FC0037,Accessories,Logan Ltd Ltd.,Africa,Ghana,Apr 2023,Not Submitted,,,
+FC0037,Accessories,Logan Ltd Ltd.,Africa,Ghana,May 2023,Not Submitted,,,
+FC0037,Accessories,Logan Ltd Ltd.,Africa,Ghana,Jun 2023,Not Submitted,,,
+FC0037,Accessories,Logan Ltd Ltd.,Africa,Ghana,Jul 2023,Submitted,92.0,Pass,2023-07-23
+FC0037,Accessories,Logan Ltd Ltd.,Africa,Ghana,Aug 2023,Not Submitted,,,
+FC0037,Accessories,Logan Ltd Ltd.,Africa,Ghana,Sep 2023,Submitted,73.0,Pass,2023-09-15
+FC0037,Accessories,Logan Ltd Ltd.,Africa,Ghana,Oct 2023,Not Submitted,,,
+FC0037,Accessories,Logan Ltd Ltd.,Africa,Ghana,Nov 2023,Submitted,76.0,Pass,2023-11-21
+FC0037,Accessories,Logan Ltd Ltd.,Africa,Ghana,Dec 2023,Submitted,98.0,Pass,2023-12-08
+FC0038,Bags & Gear,Williams PLC LLC,North America,Canada,Jan 2023,Not Submitted,,,
+FC0038,Bags & Gear,Williams PLC LLC,North America,Canada,Feb 2023,Submitted,60.0,Fail,2023-02-22
+FC0038,Bags & Gear,Williams PLC LLC,North America,Canada,Mar 2023,Submitted,72.0,Pass,2023-03-21
+FC0038,Bags & Gear,Williams PLC LLC,North America,Canada,Apr 2023,Submitted,51.0,Fail,2023-04-24
+FC0038,Bags & Gear,Williams PLC LLC,North America,Canada,May 2023,Submitted,86.0,Pass,2023-05-08
+FC0038,Bags & Gear,Williams PLC LLC,North America,Canada,Jun 2023,Submitted,98.0,Pass,2023-06-14
+FC0038,Bags & Gear,Williams PLC LLC,North America,Canada,Jul 2023,Submitted,78.0,Pass,2023-07-08
+FC0038,Bags & Gear,Williams PLC LLC,North America,Canada,Aug 2023,Submitted,78.0,Pass,2023-08-28
+FC0038,Bags & Gear,Williams PLC LLC,North America,Canada,Sep 2023,Submitted,95.0,Pass,2023-09-04
+FC0038,Bags & Gear,Williams PLC LLC,North America,Canada,Oct 2023,Not Submitted,,,
+FC0038,Bags & Gear,Williams PLC LLC,North America,Canada,Nov 2023,Submitted,54.0,Fail,2023-11-14
+FC0038,Bags & Gear,Williams PLC LLC,North America,Canada,Dec 2023,Submitted,67.0,Fail,2023-12-09
+FC0039,Bags & Gear,"Kent, Ferguson and Becker Inc.",Europe,Italy,Jan 2023,Submitted,98.0,Pass,2023-01-25
+FC0039,Bags & Gear,"Kent, Ferguson and Becker Inc.",Europe,Italy,Feb 2023,Submitted,70.0,Pass,2023-02-03
+FC0039,Bags & Gear,"Kent, Ferguson and Becker Inc.",Europe,Italy,Mar 2023,Submitted,81.0,Pass,2023-03-01
+FC0039,Bags & Gear,"Kent, Ferguson and Becker Inc.",Europe,Italy,Apr 2023,Not Submitted,,,
+FC0039,Bags & Gear,"Kent, Ferguson and Becker Inc.",Europe,Italy,May 2023,Submitted,75.0,Pass,2023-05-13
+FC0039,Bags & Gear,"Kent, Ferguson and Becker Inc.",Europe,Italy,Jun 2023,Submitted,90.0,Pass,2023-06-21
+FC0039,Bags & Gear,"Kent, Ferguson and Becker Inc.",Europe,Italy,Jul 2023,Submitted,94.0,Pass,2023-07-27
+FC0039,Bags & Gear,"Kent, Ferguson and Becker Inc.",Europe,Italy,Aug 2023,Submitted,79.0,Pass,2023-08-12
+FC0039,Bags & Gear,"Kent, Ferguson and Becker Inc.",Europe,Italy,Sep 2023,Not Submitted,,,
+FC0039,Bags & Gear,"Kent, Ferguson and Becker Inc.",Europe,Italy,Oct 2023,Submitted,95.0,Pass,2023-10-09
+FC0039,Bags & Gear,"Kent, Ferguson and Becker Inc.",Europe,Italy,Nov 2023,Submitted,51.0,Fail,2023-11-13
+FC0039,Bags & Gear,"Kent, Ferguson and Becker Inc.",Europe,Italy,Dec 2023,Submitted,83.0,Pass,2023-12-05
+FC0040,Accessories,Martinez and Sons Ltd.,South America,Argentina,Jan 2023,Submitted,86.0,Pass,2023-01-28
+FC0040,Accessories,Martinez and Sons Ltd.,South America,Argentina,Feb 2023,Submitted,50.0,Fail,2023-02-03
+FC0040,Accessories,Martinez and Sons Ltd.,South America,Argentina,Mar 2023,Submitted,57.0,Fail,2023-03-22
+FC0040,Accessories,Martinez and Sons Ltd.,South America,Argentina,Apr 2023,Submitted,52.0,Fail,2023-04-11
+FC0040,Accessories,Martinez and Sons Ltd.,South America,Argentina,May 2023,Not Submitted,,,
+FC0040,Accessories,Martinez and Sons Ltd.,South America,Argentina,Jun 2023,Not Submitted,,,
+FC0040,Accessories,Martinez and Sons Ltd.,South America,Argentina,Jul 2023,Not Submitted,,,
+FC0040,Accessories,Martinez and Sons Ltd.,South America,Argentina,Aug 2023,Submitted,58.0,Fail,2023-08-25
+FC0040,Accessories,Martinez and Sons Ltd.,South America,Argentina,Sep 2023,Submitted,76.0,Pass,2023-09-22
+FC0040,Accessories,Martinez and Sons Ltd.,South America,Argentina,Oct 2023,Submitted,59.0,Fail,2023-10-13
+FC0040,Accessories,Martinez and Sons Ltd.,South America,Argentina,Nov 2023,Not Submitted,,,
+FC0040,Accessories,Martinez and Sons Ltd.,South America,Argentina,Dec 2023,Submitted,60.0,Fail,2023-12-05
+FC0041,Footwear,"Greer, Wilson and Davis Ltd.",Africa,Egypt,Jan 2023,Not Submitted,,,
+FC0041,Footwear,"Greer, Wilson and Davis Ltd.",Africa,Egypt,Feb 2023,Not Submitted,,,
+FC0041,Footwear,"Greer, Wilson and Davis Ltd.",Africa,Egypt,Mar 2023,Submitted,95.0,Pass,2023-03-25
+FC0041,Footwear,"Greer, Wilson and Davis Ltd.",Africa,Egypt,Apr 2023,Submitted,96.0,Pass,2023-04-27
+FC0041,Footwear,"Greer, Wilson and Davis Ltd.",Africa,Egypt,May 2023,Submitted,85.0,Pass,2023-05-23
+FC0041,Footwear,"Greer, Wilson and Davis Ltd.",Africa,Egypt,Jun 2023,Submitted,90.0,Pass,2023-06-13
+FC0041,Footwear,"Greer, Wilson and Davis Ltd.",Africa,Egypt,Jul 2023,Not Submitted,,,
+FC0041,Footwear,"Greer, Wilson and Davis Ltd.",Africa,Egypt,Aug 2023,Submitted,87.0,Pass,2023-08-27
+FC0041,Footwear,"Greer, Wilson and Davis Ltd.",Africa,Egypt,Sep 2023,Submitted,85.0,Pass,2023-09-06
+FC0041,Footwear,"Greer, Wilson and Davis Ltd.",Africa,Egypt,Oct 2023,Not Submitted,,,
+FC0041,Footwear,"Greer, Wilson and Davis Ltd.",Africa,Egypt,Nov 2023,Submitted,66.0,Fail,2023-11-11
+FC0041,Footwear,"Greer, Wilson and Davis Ltd.",Africa,Egypt,Dec 2023,Submitted,66.0,Fail,2023-12-26
+FC0042,Accessories,Johnson Inc Ltd.,Africa,Egypt,Jan 2023,Submitted,79.0,Pass,2023-01-05
+FC0042,Accessories,Johnson Inc Ltd.,Africa,Egypt,Feb 2023,Not Submitted,,,
+FC0042,Accessories,Johnson Inc Ltd.,Africa,Egypt,Mar 2023,Submitted,59.0,Fail,2023-03-02
+FC0042,Accessories,Johnson Inc Ltd.,Africa,Egypt,Apr 2023,Submitted,61.0,Fail,2023-04-21
+FC0042,Accessories,Johnson Inc Ltd.,Africa,Egypt,May 2023,Submitted,98.0,Pass,2023-05-11
+FC0042,Accessories,Johnson Inc Ltd.,Africa,Egypt,Jun 2023,Not Submitted,,,
+FC0042,Accessories,Johnson Inc Ltd.,Africa,Egypt,Jul 2023,Submitted,91.0,Pass,2023-07-26
+FC0042,Accessories,Johnson Inc Ltd.,Africa,Egypt,Aug 2023,Submitted,65.0,Fail,2023-08-26
+FC0042,Accessories,Johnson Inc Ltd.,Africa,Egypt,Sep 2023,Submitted,60.0,Fail,2023-09-23
+FC0042,Accessories,Johnson Inc Ltd.,Africa,Egypt,Oct 2023,Submitted,91.0,Pass,2023-10-05
+FC0042,Accessories,Johnson Inc Ltd.,Africa,Egypt,Nov 2023,Submitted,85.0,Pass,2023-11-02
+FC0042,Accessories,Johnson Inc Ltd.,Africa,Egypt,Dec 2023,Submitted,83.0,Pass,2023-12-11
+FC0043,Sports Equipment,Woodward and Sons Ltd.,North America,Cuba,Jan 2023,Submitted,99.0,Pass,2023-01-03
+FC0043,Sports Equipment,Woodward and Sons Ltd.,North America,Cuba,Feb 2023,Submitted,88.0,Pass,2023-02-12
+FC0043,Sports Equipment,Woodward and Sons Ltd.,North America,Cuba,Mar 2023,Submitted,71.0,Pass,2023-03-27
+FC0043,Sports Equipment,Woodward and Sons Ltd.,North America,Cuba,Apr 2023,Submitted,73.0,Pass,2023-04-27
+FC0043,Sports Equipment,Woodward and Sons Ltd.,North America,Cuba,May 2023,Not Submitted,,,
+FC0043,Sports Equipment,Woodward and Sons Ltd.,North America,Cuba,Jun 2023,Submitted,70.0,Pass,2023-06-01
+FC0043,Sports Equipment,Woodward and Sons Ltd.,North America,Cuba,Jul 2023,Submitted,58.0,Fail,2023-07-01
+FC0043,Sports Equipment,Woodward and Sons Ltd.,North America,Cuba,Aug 2023,Submitted,88.0,Pass,2023-08-07
+FC0043,Sports Equipment,Woodward and Sons Ltd.,North America,Cuba,Sep 2023,Submitted,91.0,Pass,2023-09-02
+FC0043,Sports Equipment,Woodward and Sons Ltd.,North America,Cuba,Oct 2023,Submitted,100.0,Pass,2023-10-13
+FC0043,Sports Equipment,Woodward and Sons Ltd.,North America,Cuba,Nov 2023,Not Submitted,,,
+FC0043,Sports Equipment,Woodward and Sons Ltd.,North America,Cuba,Dec 2023,Submitted,100.0,Pass,2023-12-23
+FC0044,Accessories,"Martinez, Clark and Owen Group",South America,Peru,Jan 2023,Submitted,54.0,Fail,2023-01-14
+FC0044,Accessories,"Martinez, Clark and Owen Group",South America,Peru,Feb 2023,Submitted,72.0,Pass,2023-02-20
+FC0044,Accessories,"Martinez, Clark and Owen Group",South America,Peru,Mar 2023,Not Submitted,,,
+FC0044,Accessories,"Martinez, Clark and Owen Group",South America,Peru,Apr 2023,Not Submitted,,,
+FC0044,Accessories,"Martinez, Clark and Owen Group",South America,Peru,May 2023,Submitted,86.0,Pass,2023-05-28
+FC0044,Accessories,"Martinez, Clark and Owen Group",South America,Peru,Jun 2023,Not Submitted,,,
+FC0044,Accessories,"Martinez, Clark and Owen Group",South America,Peru,Jul 2023,Submitted,51.0,Fail,2023-07-15
+FC0044,Accessories,"Martinez, Clark and Owen Group",South America,Peru,Aug 2023,Not Submitted,,,
+FC0044,Accessories,"Martinez, Clark and Owen Group",South America,Peru,Sep 2023,Submitted,74.0,Pass,2023-09-03
+FC0044,Accessories,"Martinez, Clark and Owen Group",South America,Peru,Oct 2023,Submitted,57.0,Fail,2023-10-01
+FC0044,Accessories,"Martinez, Clark and Owen Group",South America,Peru,Nov 2023,Submitted,61.0,Fail,2023-11-13
+FC0044,Accessories,"Martinez, Clark and Owen Group",South America,Peru,Dec 2023,Submitted,91.0,Pass,2023-12-01
+FC0045,Bags & Gear,"Johnson, Coleman and Garcia Inc.",Africa,Ghana,Jan 2023,Submitted,100.0,Pass,2023-01-18
+FC0045,Bags & Gear,"Johnson, Coleman and Garcia Inc.",Africa,Ghana,Feb 2023,Submitted,94.0,Pass,2023-02-16
+FC0045,Bags & Gear,"Johnson, Coleman and Garcia Inc.",Africa,Ghana,Mar 2023,Submitted,53.0,Fail,2023-03-18
+FC0045,Bags & Gear,"Johnson, Coleman and Garcia Inc.",Africa,Ghana,Apr 2023,Not Submitted,,,
+FC0045,Bags & Gear,"Johnson, Coleman and Garcia Inc.",Africa,Ghana,May 2023,Not Submitted,,,
+FC0045,Bags & Gear,"Johnson, Coleman and Garcia Inc.",Africa,Ghana,Jun 2023,Not Submitted,,,
+FC0045,Bags & Gear,"Johnson, Coleman and Garcia Inc.",Africa,Ghana,Jul 2023,Submitted,91.0,Pass,2023-07-17
+FC0045,Bags & Gear,"Johnson, Coleman and Garcia Inc.",Africa,Ghana,Aug 2023,Submitted,55.0,Fail,2023-08-11
+FC0045,Bags & Gear,"Johnson, Coleman and Garcia Inc.",Africa,Ghana,Sep 2023,Submitted,56.0,Fail,2023-09-16
+FC0045,Bags & Gear,"Johnson, Coleman and Garcia Inc.",Africa,Ghana,Oct 2023,Not Submitted,,,
+FC0045,Bags & Gear,"Johnson, Coleman and Garcia Inc.",Africa,Ghana,Nov 2023,Submitted,83.0,Pass,2023-11-21
+FC0045,Bags & Gear,"Johnson, Coleman and Garcia Inc.",Africa,Ghana,Dec 2023,Not Submitted,,,
+FC0046,Athletic Apparel,Jones-Jones Inc.,North America,Cuba,Jan 2023,Not Submitted,,,
+FC0046,Athletic Apparel,Jones-Jones Inc.,North America,Cuba,Feb 2023,Submitted,71.0,Pass,2023-02-06
+FC0046,Athletic Apparel,Jones-Jones Inc.,North America,Cuba,Mar 2023,Not Submitted,,,
+FC0046,Athletic Apparel,Jones-Jones Inc.,North America,Cuba,Apr 2023,Submitted,60.0,Fail,2023-04-06
+FC0046,Athletic Apparel,Jones-Jones Inc.,North America,Cuba,May 2023,Not Submitted,,,
+FC0046,Athletic Apparel,Jones-Jones Inc.,North America,Cuba,Jun 2023,Submitted,93.0,Pass,2023-06-08
+FC0046,Athletic Apparel,Jones-Jones Inc.,North America,Cuba,Jul 2023,Not Submitted,,,
+FC0046,Athletic Apparel,Jones-Jones Inc.,North America,Cuba,Aug 2023,Not Submitted,,,
+FC0046,Athletic Apparel,Jones-Jones Inc.,North America,Cuba,Sep 2023,Submitted,51.0,Fail,2023-09-16
+FC0046,Athletic Apparel,Jones-Jones Inc.,North America,Cuba,Oct 2023,Not Submitted,,,
+FC0046,Athletic Apparel,Jones-Jones Inc.,North America,Cuba,Nov 2023,Submitted,75.0,Pass,2023-11-02
+FC0046,Athletic Apparel,Jones-Jones Inc.,North America,Cuba,Dec 2023,Submitted,90.0,Pass,2023-12-10
+FC0047,Accessories,Bell-White LLC,South America,Brazil,Jan 2023,Submitted,65.0,Fail,2023-01-12
+FC0047,Accessories,Bell-White LLC,South America,Brazil,Feb 2023,Submitted,76.0,Pass,2023-02-15
+FC0047,Accessories,Bell-White LLC,South America,Brazil,Mar 2023,Submitted,86.0,Pass,2023-03-05
+FC0047,Accessories,Bell-White LLC,South America,Brazil,Apr 2023,Submitted,99.0,Pass,2023-04-01
+FC0047,Accessories,Bell-White LLC,South America,Brazil,May 2023,Submitted,87.0,Pass,2023-05-01
+FC0047,Accessories,Bell-White LLC,South America,Brazil,Jun 2023,Submitted,95.0,Pass,2023-06-26
+FC0047,Accessories,Bell-White LLC,South America,Brazil,Jul 2023,Submitted,59.0,Fail,2023-07-01
+FC0047,Accessories,Bell-White LLC,South America,Brazil,Aug 2023,Submitted,70.0,Pass,2023-08-17
+FC0047,Accessories,Bell-White LLC,South America,Brazil,Sep 2023,Submitted,53.0,Fail,2023-09-25
+FC0047,Accessories,Bell-White LLC,South America,Brazil,Oct 2023,Not Submitted,,,
+FC0047,Accessories,Bell-White LLC,South America,Brazil,Nov 2023,Submitted,59.0,Fail,2023-11-25
+FC0047,Accessories,Bell-White LLC,South America,Brazil,Dec 2023,Submitted,100.0,Pass,2023-12-13
+FC0048,Footwear,"Mcdonald, Carlson and Lyons Group",Africa,Kenya,Jan 2023,Not Submitted,,,
+FC0048,Footwear,"Mcdonald, Carlson and Lyons Group",Africa,Kenya,Feb 2023,Submitted,86.0,Pass,2023-02-22
+FC0048,Footwear,"Mcdonald, Carlson and Lyons Group",Africa,Kenya,Mar 2023,Submitted,65.0,Fail,2023-03-05
+FC0048,Footwear,"Mcdonald, Carlson and Lyons Group",Africa,Kenya,Apr 2023,Submitted,63.0,Fail,2023-04-18
+FC0048,Footwear,"Mcdonald, Carlson and Lyons Group",Africa,Kenya,May 2023,Submitted,58.0,Fail,2023-05-14
+FC0048,Footwear,"Mcdonald, Carlson and Lyons Group",Africa,Kenya,Jun 2023,Submitted,72.0,Pass,2023-06-04
+FC0048,Footwear,"Mcdonald, Carlson and Lyons Group",Africa,Kenya,Jul 2023,Submitted,77.0,Pass,2023-07-08
+FC0048,Footwear,"Mcdonald, Carlson and Lyons Group",Africa,Kenya,Aug 2023,Submitted,64.0,Fail,2023-08-13
+FC0048,Footwear,"Mcdonald, Carlson and Lyons Group",Africa,Kenya,Sep 2023,Submitted,80.0,Pass,2023-09-13
+FC0048,Footwear,"Mcdonald, Carlson and Lyons Group",Africa,Kenya,Oct 2023,Not Submitted,,,
+FC0048,Footwear,"Mcdonald, Carlson and Lyons Group",Africa,Kenya,Nov 2023,Submitted,66.0,Fail,2023-11-09
+FC0048,Footwear,"Mcdonald, Carlson and Lyons Group",Africa,Kenya,Dec 2023,Not Submitted,,,
+FC0049,Athletic Apparel,Gonzalez-Howard Inc.,Europe,United Kingdom,Jan 2023,Submitted,51.0,Fail,2023-01-20
+FC0049,Athletic Apparel,Gonzalez-Howard Inc.,Europe,United Kingdom,Feb 2023,Submitted,80.0,Pass,2023-02-08
+FC0049,Athletic Apparel,Gonzalez-Howard Inc.,Europe,United Kingdom,Mar 2023,Submitted,89.0,Pass,2023-03-11
+FC0049,Athletic Apparel,Gonzalez-Howard Inc.,Europe,United Kingdom,Apr 2023,Not Submitted,,,
+FC0049,Athletic Apparel,Gonzalez-Howard Inc.,Europe,United Kingdom,May 2023,Submitted,90.0,Pass,2023-05-04
+FC0049,Athletic Apparel,Gonzalez-Howard Inc.,Europe,United Kingdom,Jun 2023,Submitted,53.0,Fail,2023-06-05
+FC0049,Athletic Apparel,Gonzalez-Howard Inc.,Europe,United Kingdom,Jul 2023,Submitted,51.0,Fail,2023-07-25
+FC0049,Athletic Apparel,Gonzalez-Howard Inc.,Europe,United Kingdom,Aug 2023,Submitted,75.0,Pass,2023-08-14
+FC0049,Athletic Apparel,Gonzalez-Howard Inc.,Europe,United Kingdom,Sep 2023,Not Submitted,,,
+FC0049,Athletic Apparel,Gonzalez-Howard Inc.,Europe,United Kingdom,Oct 2023,Submitted,88.0,Pass,2023-10-15
+FC0049,Athletic Apparel,Gonzalez-Howard Inc.,Europe,United Kingdom,Nov 2023,Submitted,71.0,Pass,2023-11-16
+FC0049,Athletic Apparel,Gonzalez-Howard Inc.,Europe,United Kingdom,Dec 2023,Submitted,87.0,Pass,2023-12-28
+FC0050,Accessories,"Harrison, Barrera and Hudson LLC",Europe,Spain,Jan 2023,Submitted,82.0,Pass,2023-01-04
+FC0050,Accessories,"Harrison, Barrera and Hudson LLC",Europe,Spain,Feb 2023,Not Submitted,,,
+FC0050,Accessories,"Harrison, Barrera and Hudson LLC",Europe,Spain,Mar 2023,Submitted,90.0,Pass,2023-03-12
+FC0050,Accessories,"Harrison, Barrera and Hudson LLC",Europe,Spain,Apr 2023,Not Submitted,,,
+FC0050,Accessories,"Harrison, Barrera and Hudson LLC",Europe,Spain,May 2023,Submitted,98.0,Pass,2023-05-02
+FC0050,Accessories,"Harrison, Barrera and Hudson LLC",Europe,Spain,Jun 2023,Submitted,66.0,Fail,2023-06-06
+FC0050,Accessories,"Harrison, Barrera and Hudson LLC",Europe,Spain,Jul 2023,Submitted,70.0,Pass,2023-07-10
+FC0050,Accessories,"Harrison, Barrera and Hudson LLC",Europe,Spain,Aug 2023,Submitted,52.0,Fail,2023-08-10
+FC0050,Accessories,"Harrison, Barrera and Hudson LLC",Europe,Spain,Sep 2023,Submitted,52.0,Fail,2023-09-22
+FC0050,Accessories,"Harrison, Barrera and Hudson LLC",Europe,Spain,Oct 2023,Submitted,74.0,Pass,2023-10-24
+FC0050,Accessories,"Harrison, Barrera and Hudson LLC",Europe,Spain,Nov 2023,Submitted,58.0,Fail,2023-11-05
+FC0050,Accessories,"Harrison, Barrera and Hudson LLC",Europe,Spain,Dec 2023,Submitted,72.0,Pass,2023-12-06
